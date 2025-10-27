@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Fax\III\SysProg\Lab\tasks-web-server\obj\Debug\tasks-web-server.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Fax\III\SysProg\Lab\tasks-web-server\obj\Debug\tasks-web-server.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Fax\III\SysProg\Lab\tasks-web-server\bin\Debug\tasks-web-server.exe.config
+C:\Users\LENOVO\Fax\III\SysProg\Lab\tasks-web-server\bin\Debug\tasks-web-server.exe
+C:\Users\LENOVO\Fax\III\SysProg\Lab\tasks-web-server\bin\Debug\tasks-web-server.pdb
+C:\Users\LENOVO\Fax\III\SysProg\Lab\tasks-web-server\obj\Debug\tasks-web-server.exe
+C:\Users\LENOVO\Fax\III\SysProg\Lab\tasks-web-server\obj\Debug\tasks-web-server.pdb

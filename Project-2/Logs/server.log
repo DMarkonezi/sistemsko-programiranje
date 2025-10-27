@@ -1,0 +1,60 @@
+[05:49:34.954] ====================================================================================================
+[2025-10-27T05:49:34] Server started
+  Hostname     : Markonezi
+  IP Address   : 192.168.56.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[05:49:49.679] [127.0.0.1:24843] requested test.txt -> already converted.
+[05:50:17.672] [127.0.0.1:24844] requested GET /nesto -> 404 Not Found
+(Unable to find the specified file.)
+[05:50:23.716] [127.0.0.1:24846] converted nesto.txt successfully.
+[05:50:27.050] [127.0.0.1:24854] GET nesto.txt -> 200 OK [CACHED]
+[05:50:31.644] [127.0.0.1:24856] requested nesto.bin -> already converted.
+[05:52:14.707] ====================================================================================================
+[2025-10-27T05:52:14] Server started
+  Hostname     : Markonezi
+  IP Address   : 192.168.56.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[05:52:50.858] [127.0.0.1:24872] requested test.txt -> already converted.
+[05:54:51.556] ====================================================================================================
+[2025-10-27T05:54:51] Server started
+  Hostname     : Markonezi
+  IP Address   : 192.168.56.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[05:55:02.112] ====================================================================================================
+[2025-10-27T05:55:02] Server started
+  Hostname     : Markonezi
+  IP Address   : 192.168.56.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[05:55:02.418] [127.0.0.1:24909] requested  -> 400 Bad Request (File name is missing in the request path.)
+[05:55:04.728] [127.0.0.1:24908] requested  -> 400 Bad Request (File name is missing in the request path.)
+[05:55:09.657] [127.0.0.1:24910] requested GET /nes -> 404 Not Found
+(Unable to find the specified file.)
+[05:55:14.940] [127.0.0.1:24915] requested GET /nes.txt -> 404 Not Found
+(Unable to find the specified file.)
+[05:55:19.656] [127.0.0.1:24917] converted nesto.txt successfully.
+[06:06:13.763] ====================================================================================================
+[2025-10-27T06:06:13] Server started
+  Hostname     : Markonezi
+  IP Address   : 192.168.56.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[06:06:19.395] [127.0.0.1:25086] requested nesto.txt -> already converted.
+[06:06:23.228] [127.0.0.1:25087] requested  -> 400 Bad Request (File name is missing in the request path.)
+[06:06:23.453] [127.0.0.1:25088] requested  -> 400 Bad Request (File name is missing in the request path.)
+[06:06:26.944] [127.0.0.1:25093] requested test.txt -> already converted.
+[06:06:31.190] [127.0.0.1:25103] requested GET /te12321.txt -> 404 Not Found
+(Unable to find the specified file.)
