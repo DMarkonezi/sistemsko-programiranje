@@ -20,7 +20,7 @@ namespace reactive_web_server.Stats
             }
 
             dataPoints.Clear();
-            dataPoints.AddRange(newDataPoints);  // Store them
+            dataPoints.AddRange(newDataPoints);
 
             var humidities = dataPoints.Select(d => d.Humidity);
             var visibilities = dataPoints.Select(d => d.Visibility);
