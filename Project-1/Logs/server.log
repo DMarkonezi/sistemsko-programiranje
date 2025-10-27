@@ -1,0 +1,61 @@
+====================================================================================================
+[2025-10-25T15:13:48] Server started
+  Hostname     : Markonezi
+  IP Address   : 172.21.64.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[15:14:30] [127.0.0.1:10906] requested POST /test.txt -> 405 Method Not Allowed
+[15:14:42] [127.0.0.1:10914] requested GET /test.txt -> 404 Not Found
+(Unable to find the specified file.)
+[15:14:42] [127.0.0.1:10915] requested GET /favicon.ico -> 404 Not Found
+(Unable to find the specified file.)
+[15:15:01] [127.0.0.1:10924] requested GET /test.txt -> 404 Not Found
+(Unable to find the specified file.)
+[15:15:17] [127.0.0.1:10927] GET test.bin -> 200 OK
+[15:15:17] [127.0.0.1:10927] requested GET /test.bin -> 404 Not Found
+(Unable to find the specified file.)
+[15:15:46] [127.0.0.1:10935] GET test.txt -> 200 OK
+[15:15:46] [127.0.0.1:10935] requested GET /test.txt -> 404 Not Found
+(Unable to find the specified file.)
+====================================================================================================
+[2025-10-25T16:54:33] Server started
+  Hostname     : Markonezi
+  IP Address   : 172.21.64.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[16:54:49] [127.0.0.1:11674] converted test.bin successfully.
+[16:55:17] [127.0.0.1:11679] converted test.txt successfully.
+[16:55:32] [127.0.0.1:11683] GET test.txt -> 200 OK [CACHED]
+[16:55:42] [127.0.0.1:11688] GET test.txt -> 200 OK [CACHED]
+[16:55:54] [127.0.0.1:11691] GET test.bin -> 200 OK [CACHED]
+====================================================================================================
+[2025-10-25T16:56:35] Server started
+  Hostname     : Markonezi
+  IP Address   : 172.21.64.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[16:57:03] [127.0.0.1:11703] converted test.bin successfully.
+[16:57:14] [127.0.0.1:11704] GET test.bin -> 200 OK [CACHED]
+[16:57:21] [127.0.0.1:11705] requested test.txt -> already converted.
+[16:57:35] [127.0.0.1:11708] requested GET /testsadasd.txt -> 404 Not Found
+(Unable to find the specified file.)
+[16:57:54] [127.0.0.1:11710] converted testic.bin successfully.
+[16:57:59] [127.0.0.1:11715] GET testic.bin -> 200 OK [CACHED]
+[16:58:06] [127.0.0.1:11718] GET testic.bin -> 200 OK [CACHED]
+[16:58:33] [127.0.0.1:11720] GET testic.bin -> 200 OK [CACHED]
+====================================================================================================
+[2025-10-25T16:58:50] Server started
+  Hostname     : Markonezi
+  IP Address   : 172.21.64.1
+  Listening on : port 5050
+  Runtime      : 4.0.30319.42000
+  OS           : Microsoft Windows NT 6.2.9200.0
+
+[16:58:50] [127.0.0.1:11738] requested testic.txt -> already converted.
+[16:58:52] [127.0.0.1:11737] GET testic.txt -> 200 OK [CACHED]

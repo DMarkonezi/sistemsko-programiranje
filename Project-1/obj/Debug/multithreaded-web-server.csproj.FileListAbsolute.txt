@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Fax\III\SysProg\Lab\multithreaded-web-server\bin\Debug\multithreaded-web-server.exe.config
+C:\Users\LENOVO\Fax\III\SysProg\Lab\multithreaded-web-server\bin\Debug\multithreaded-web-server.exe
+C:\Users\LENOVO\Fax\III\SysProg\Lab\multithreaded-web-server\bin\Debug\multithreaded-web-server.pdb
+C:\Users\LENOVO\Fax\III\SysProg\Lab\multithreaded-web-server\obj\Debug\multithreaded-web-server.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Fax\III\SysProg\Lab\multithreaded-web-server\obj\Debug\multithreaded-web-server.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Fax\III\SysProg\Lab\multithreaded-web-server\obj\Debug\multithreaded-web-server.exe
+C:\Users\LENOVO\Fax\III\SysProg\Lab\multithreaded-web-server\obj\Debug\multithreaded-web-server.pdb
